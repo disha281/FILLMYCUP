@@ -3,9 +3,14 @@
 A cozy personal activity hub for choosing a small activity, completing it, and keeping a gentle record of the things that fill your cup.
 
 ## Open the app
-
 https://fill-my-cup.vercel.app/
 
+<img width="1264" height="709" alt="Screenshot 2026-09-04 at 7 13 22 PM" src="https://github.com/user-attachments/assets/84eebbf6-4074-4a2a-9aab-16db8209c58c" />
+
+
+
+
+<img width="1270" height="710" alt="Screenshot 2026-09-04 at 7 15 29 PM" src="https://github.com/user-attachments/assets/84a62638-18d6-4672-8ea6-54d6e080c0a5" />
 
 ## What it includes
 
