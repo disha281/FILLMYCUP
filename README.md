@@ -4,7 +4,7 @@
 
 ## 🌸 Open the App
 
-🔗 **Live App:** https://fill-my-cup.vercel.app/
+🔗 **Live App:** https://fillmycupweb.vercel.app/
 
 <img width="1264" height="709" alt="Fill My Cup" src="https://github.com/user-attachments/assets/84eebbf6-4074-4a2a-9aab-16db8209c58c" />
 
