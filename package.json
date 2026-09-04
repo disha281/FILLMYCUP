@@ -1,0 +1,10 @@
+{
+  "name": "fill-my-cup",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A cozy personal activity hub with Brain Gym and focus sessions.",
+  "scripts": {
+    "dev": "npx serve .",
+    "start": "npx serve ."
+  }
+}
