@@ -4,17 +4,8 @@ A cozy personal activity hub for choosing a small activity, completing it, and k
 
 ## Open the app
 
-Open `index.html` in any modern browser. No installation, account, server, or internet connection is required.
+https://fill-my-cup.vercel.app/
 
-## Deploy to Vercel
-
-This folder is deployment-ready. Import it as a Vercel project, or deploy from the folder with the Vercel CLI:
-
-```bash
-npx vercel
-```
-
-Choose the current folder as the project root. No build command or environment variables are required.
 
 ## What it includes
 
