@@ -1,45 +1,93 @@
-# Fill My Cup
+# ☕ Fill My Cup
 
-A cozy personal activity hub for choosing a small activity, completing it, and keeping a gentle record of the things that fill your cup.
+*A cozy personal activity hub for choosing a small activity, completing it, and keeping a gentle record of the things that fill your cup. 🌷✨*
 
-## Open the app
-https://fill-my-cup.vercel.app/
+## 🌸 Open the App
 
-<img width="1264" height="709" alt="Screenshot 2026-09-04 at 7 13 22 PM" src="https://github.com/user-attachments/assets/84eebbf6-4074-4a2a-9aab-16db8209c58c" />
+🔗 **Live App:** https://fill-my-cup.vercel.app/
+
+<img width="1264" height="709" alt="Fill My Cup" src="https://github.com/user-attachments/assets/84eebbf6-4074-4a2a-9aab-16db8209c58c" />
 
 
 
 
-<img width="1270" height="710" alt="Screenshot 2026-09-04 at 7 15 29 PM" src="https://github.com/user-attachments/assets/84a62638-18d6-4672-8ea6-54d6e080c0a5" />
 
-## What it includes
+<img width="1270" height="710" alt="Fill My Cup" src="https://github.com/user-attachments/assets/84a62638-18d6-4672-8ea6-54d6e080c0a5" />
 
-- Seven activity decks plus a Surprise Me option
-- Random card drawing with a 3D flip interaction
-- Activity setup and a full-screen focus timer (5–60 minutes or custom)
-- Timestamp-accurate pause/resume, early-end logging, and optional overtime
-- Session logging with planned versus actual time, date, and time
-- Current and best streaks
-- Monthly Journey calendar, activity history, and year heatmap
-- My Cup statistics and gentle category insight
-- Time filters, custom activities, and editable decks
-- More than 150 seeded activity ideas
-- Brain Gym with curated learning links, internal challenges, research prompts, favorites, and personal resources
+## ✨ What It Includes
 
-## Saving progress
+- 🎴 **Seven activity decks** plus a **Surprise Me** option
+- 🔄 Random card drawing with a **3D flip interaction**
+- ⏱️ Activity setup and a **full-screen focus timer** (5–60 minutes or custom)
+- ⏸️ Timestamp-accurate **pause/resume**, early-end logging, and optional overtime
+- 📝 Session logging with planned vs. actual time, date, and time
+- 🔥 **Current and best streaks**
+- 🗓️ Monthly **Journey calendar**, activity history, and year heatmap
+- 🥤 **My Cup** statistics and gentle category insights
+- 🎚️ Time filters, custom activities, and editable decks
+- 💡 More than **150 seeded activity ideas**
+- 🧠 **Brain Gym** with curated learning links, internal challenges, research prompts, favorites, and personal resources
 
-Your completed activities, custom activities, and deck edits are saved immediately in your browser's local storage. They remain available the next day and after refreshing the page, provided you use the same browser on the same device.
+## 💾 Saving Progress
 
-To keep a copy outside the browser, open **My Cup** and choose **Download a backup**. Browser data can be removed if you clear site data, use private browsing, or change devices, so periodic backups are recommended.
+Your completed activities, custom activities, and deck edits are saved immediately in your browser's **local storage**.
 
-## Typical flow
+They remain available the next day and after refreshing the page, provided you use the same browser on the same device. 🌱
 
-1. Choose a deck or press **Surprise me**.
-2. Draw and flip an activity card.
-3. Choose **Do It**, select a duration, and start a calm focus session.
-4. Pause, finish, or end early whenever you need to—your effort still counts.
-5. See the completed session appear immediately in your Journey and history.
+To keep a copy outside the browser:
 
-## Notes
+1. 🥤 Open **My Cup**
+2. 💾 Choose **Download a backup**
 
-This is a self-contained static web application. An active focus session is also stored locally, so refreshing the page restores it and calculates remaining time from timestamps. A future backend can replace local storage if cross-device sync or account-based storage is needed.
+Browser data can be removed if you clear site data, use private browsing, or change devices, so periodic backups are recommended.
+
+## 🌿 Typical Flow
+
+1. 🃏 Choose a deck or press **Surprise Me**
+2. ✨ Draw and flip an activity card
+3. 🎯 Choose **Do It**, select a duration, and start a calm focus session
+4. ⏸️ Pause, finish, or end early whenever you need to — **your effort still counts**
+5. 🌸 See the completed session appear immediately in your **Journey** and history
+
+## 🧠 Brain Gym
+
+A dedicated space for keeping your mind active, curious, and engaged.
+
+Explore:
+
+- ♟️ Curated brain-training and learning websites
+- 🧩 Internal challenges and activities
+- 🔬 Research-inspired prompts
+- ⭐ Favorite resources
+- 🔗 Personal learning resources
+- 🧠 Activities designed to encourage curiosity, focus, memory, and problem-solving
+
+## 📝 Notes
+
+This is a **self-contained static web application**.
+
+An active focus session is also stored locally, so refreshing the page restores it and calculates the remaining time from timestamps. ⏳
+
+A future backend can replace local storage if **cross-device sync** or **account-based storage** is needed.
+
+---
+
+## 💗 Made With Care
+
+**Fill My Cup** was created with the idea that productivity doesn't always have to mean doing more.
+
+Sometimes, it's about doing something small that makes you feel a little more like yourself. 🌷
+
+### 👩‍💻 Created & Designed by Disha
+
+**Disha** — Creator, Designer & Developer of **Fill My Cup** ☕✨
+
+Built with curiosity, creativity, and a little reminder that:
+
+> **Small things can fill your cup too.** 🌸
+
+---
+
+⭐ If you enjoy **Fill My Cup**, consider giving the project a star!
+
+Made with 💗, ☕ & lots of little ideas.
