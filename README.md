@@ -75,7 +75,7 @@ A future backend can replace local storage if **cross-device sync** or **account
 
 ## 💗 Made With Care
 
-**Fill My Cup** was created with the idea that productivity doesn't always have to mean doing more.
+**Aquarius** was created with the idea that productivity doesn't always have to mean doing more.
 
 Sometimes, it's about doing something small that makes you feel a little more like yourself. 🌷
 
