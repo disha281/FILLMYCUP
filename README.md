@@ -23,6 +23,16 @@
 
 
 
+
+
+
+
+
+
+<img width="1270" height="719" alt="Screenshot 2026-09-05 at 12 31 43 PM" src="https://github.com/user-attachments/assets/176b680f-0b57-4357-84bb-0039a9b12b45" />
+
+
+
 ## ✨ What It Includes
 
 - 🎴 **Seven activity decks** plus a **Surprise Me** option
