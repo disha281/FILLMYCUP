@@ -1,18 +1,19 @@
-# ☕ Fill My Cup
+# AQUARIUS
 
 *A cozy personal activity hub for choosing a small activity, completing it, and keeping a gentle record of the things that fill your cup. 🌷✨*
 
 ## 🌸 Open the App
 
-🔗 **Live App:** https://fillmycupweb.vercel.app/
+🔗 **Live App:** https://aquariusweb.vercel.app/
 
-<img width="1264" height="709" alt="Fill My Cup" src="https://github.com/user-attachments/assets/84eebbf6-4074-4a2a-9aab-16db8209c58c" />
-
-
+<img width="1267" height="715" alt="Screenshot 2026-09-05 at 11 56 20 AM" src="https://github.com/user-attachments/assets/d466389d-5384-474c-9400-ab69b8c21a36" />
 
 
 
-<img width="1270" height="710" alt="Fill My Cup" src="https://github.com/user-attachments/assets/84a62638-18d6-4672-8ea6-54d6e080c0a5" />
+
+
+<img width="1274" height="717" alt="Screenshot 2026-09-05 at 11 57 03 AM" src="https://github.com/user-attachments/assets/00d8afc1-d4e2-424f-9258-0fe6394b7e53" />
+
 
 ## ✨ What It Includes
 
