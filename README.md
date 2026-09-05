@@ -81,7 +81,7 @@ Sometimes, it's about doing something small that makes you feel a little more li
 
 ### 👩‍💻 Created & Designed by Disha
 
-**Disha** — Creator, Designer & Developer of **Fill My Cup** ☕✨
+**Disha** — Creator, Designer & Developer of **Aquarius**☕✨
 
 Built with curiosity, creativity, and a little reminder that:
 
@@ -89,6 +89,6 @@ Built with curiosity, creativity, and a little reminder that:
 
 ---
 
-⭐ If you enjoy **Fill My Cup**, consider giving the project a star!
+⭐ If you enjoy **Aquarius**, consider giving the project a star!
 
 Made with 💗, ☕ & lots of little ideas.
