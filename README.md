@@ -4,7 +4,7 @@
 
 ## 🌸 Open the App
 
-🔗 **Live App:** fillmycupweb.vercel.app
+🔗 **Live App:** https://fillmycupweb.vercel.app/
 
 
 
