@@ -1,20 +1,26 @@
-# AQUARIUS
+# Fill My Cup
 
 *A cozy personal activity hub for choosing a small activity, completing it, and keeping a gentle record of the things that fill your cup. 🌷✨*
 
 ## 🌸 Open the App
 
-🔗 **Live App:** https://aquariusweb.vercel.app/
-
-<img width="1267" height="715" alt="Screenshot 2026-09-05 at 11 56 20 AM" src="https://github.com/user-attachments/assets/d466389d-5384-474c-9400-ab69b8c21a36" />
+🔗 **Live App:** fillmycupweb.vercel.app
 
 
 
+<img width="1264" height="716" alt="Screenshot 2026-09-05 at 12 26 57 PM" src="https://github.com/user-attachments/assets/10169f35-e27d-4c0c-9705-51aaa95bd44e" />
 
 
 
 
-<img width="1274" height="717" alt="Screenshot 2026-09-05 at 11 57 03 AM" src="https://github.com/user-attachments/assets/00d8afc1-d4e2-424f-9258-0fe6394b7e53" />
+
+
+
+
+
+
+<img width="1272" height="716" alt="Screenshot 2026-09-05 at 12 27 18 PM" src="https://github.com/user-attachments/assets/d6daa9ef-ce55-4a3d-9f68-998ec90e5209" />
+
 
 
 ## ✨ What It Includes
@@ -77,13 +83,13 @@ A future backend can replace local storage if **cross-device sync** or **account
 
 ## 💗 Made With Care
 
-**Aquarius** was created with the idea that productivity doesn't always have to mean doing more.
+**Fill My Cup** was created with the idea that productivity doesn't always have to mean doing more.
 
 Sometimes, it's about doing something small that makes you feel a little more like yourself. 🌷
 
 ### 👩‍💻 Created & Designed by Disha
 
-**Disha** — Creator, Designer & Developer of **Aquarius**☕✨
+**Disha** — Creator, Designer & Developer of **Fill My Cup**☕✨
 
 Built with curiosity, creativity, and a little reminder that:
 
@@ -91,6 +97,6 @@ Built with curiosity, creativity, and a little reminder that:
 
 ---
 
-⭐ If you enjoy **Aquarius**, consider giving the project a star!
+⭐ If you enjoy **Fill My Cup**, consider giving the project a star!
 
 Made with 💗, ☕ & lots of little ideas.
