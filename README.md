@@ -4,48 +4,44 @@
 
 ## 🌸 Open the App
 
-🔗 **Live App:** https://fillmycupweb.vercel.app/
+🔗 **Live App:** https://fillmycup-nu.vercel.app/
 
-
-
-<img width="1264" height="716" alt="Screenshot 2026-09-05 at 12 26 57 PM" src="https://github.com/user-attachments/assets/10169f35-e27d-4c0c-9705-51aaa95bd44e" />
-
-
+<img width="1269" height="715" alt="Screenshot 2026-09-06 at 4 46 14 PM" src="https://github.com/user-attachments/assets/b89d73c9-9505-4529-a6e6-4cd092e31b17" />
 
 
 
 
 
+<img width="1272" height="716" alt="Screenshot 2026-09-05 at 12 27 18 PM" src="https://github.com/user-attachments/assets/d6daa9ef-ce55-4a3d-9f68-998ec90e5209" />
 
 
 
-<img width="1272" height="716" alt="Screenshot 2026-09-05 at 12 27 18 PM" src="https://github.com/user-attachments/assets/d6daa9ef-ce55-4a3d-9f68-998ec90e5209" />
 
 
-
+<img width="1268" height="687" alt="Screenshot 2026-09-06 at 4 46 53 PM" src="https://github.com/user-attachments/assets/882529af-1c41-4edb-9e18-e244f8ba5f53" />
 
 
 
 
 
 
-<img width="1270" height="719" alt="Screenshot 2026-09-05 at 12 31 43 PM" src="https://github.com/user-attachments/assets/176b680f-0b57-4357-84bb-0039a9b12b45" />
-
-
+<img width="1270" height="719" alt="Screenshot 2026-09-05 at 12 31 43 PM" src="https://github.com/user-attachments/assets/176b680f-0b57-4357-84bb-0039a9b12b45" />
 
 ## ✨ What It Includes
 
-- 🎴 **Seven activity decks** plus a **Surprise Me** option
-- 🔄 Random card drawing with a **3D flip interaction**
-- ⏱️ Activity setup and a **full-screen focus timer** (5–60 minutes or custom)
-- ⏸️ Timestamp-accurate **pause/resume**, early-end logging, and optional overtime
-- 📝 Session logging with planned vs. actual time, date, and time
-- 🔥 **Current and best streaks**
-- 🗓️ Monthly **Journey calendar**, activity history, and year heatmap
-- 🥤 **My Cup** statistics and gentle category insights
-- 🎚️ Time filters, custom activities, and editable decks
-- 💡 More than **150 seeded activity ideas**
-- 🧠 **Brain Gym** with curated learning links, internal challenges, research prompts, favorites, and personal resources
+* 🎴 **Seven activity decks** plus a **Surprise Me** option
+* 🔄 Random card drawing with a **3D flip interaction**
+* ⏱️ Activity setup and a **full-screen focus timer** (5–60 minutes or custom)
+* ⏸️ Timestamp-accurate **pause/resume**, early-end logging, and optional overtime
+* 📝 Session logging with planned vs. actual time, date, and time
+* 🔥 **Current and best streaks**
+* 🗓️ Monthly **Journey calendar**, activity history, and year heatmap
+* 🥤 **My Cup** statistics and gentle category insights
+* 🎚️ Time filters, custom activities, and editable decks
+* 💡 More than **150 seeded activity ideas**
+* 🧠 **Brain Gym** with curated learning links, internal challenges, research prompts, favorites, and personal resources<img width="1272" height="715" alt="Screenshot 2026-09-06 at 4 45 54 PM" src="https://github.com/user-attachments/assets/ed31d494-a04a-4571-9e64-56158f110d2d" />
+
+* 📚 **Study Rooms** with cozy library and café environments, different scenes, focus sessions, fullscreen mode, and personal study notes
 
 ## 💾 Saving Progress
 
@@ -74,12 +70,12 @@ A dedicated space for keeping your mind active, curious, and engaged.
 
 Explore:
 
-- ♟️ Curated brain-training and learning websites
-- 🧩 Internal challenges and activities
-- 🔬 Research-inspired prompts
-- ⭐ Favorite resources
-- 🔗 Personal learning resources
-- 🧠 Activities designed to encourage curiosity, focus, memory, and problem-solving
+* ♟️ Curated brain-training and learning websites
+* 🧩 Internal challenges and activities
+* 🔬 Research-inspired prompts
+* ⭐ Favorite resources
+* 🔗 Personal learning resources
+* 🧠 Activities designed to encourage curiosity, focus, memory, and problem-solving
 
 ## 📝 Notes
 
