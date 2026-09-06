@@ -10,23 +10,6 @@
 
 
 
-
-
-<img width="1272" height="716" alt="Screenshot 2026-09-05 at 12 27 18 PM" src="https://github.com/user-attachments/assets/d6daa9ef-ce55-4a3d-9f68-998ec90e5209" />
-
-
-
-
-
-<img width="1268" height="687" alt="Screenshot 2026-09-06 at 4 46 53 PM" src="https://github.com/user-attachments/assets/882529af-1c41-4edb-9e18-e244f8ba5f53" />
-
-
-
-
-
-
-<img width="1270" height="719" alt="Screenshot 2026-09-05 at 12 31 43 PM" src="https://github.com/user-attachments/assets/176b680f-0b57-4357-84bb-0039a9b12b45" />
-
 ## ✨ What It Includes
 
 * 🎴 **Seven activity decks** plus a **Surprise Me** option
@@ -39,22 +22,11 @@
 * 🥤 **My Cup** statistics and gentle category insights
 * 🎚️ Time filters, custom activities, and editable decks
 * 💡 More than **150 seeded activity ideas**
-* 🧠 **Brain Gym** with curated learning links, internal challenges, research prompts, favorites, and personal resources<img width="1272" height="715" alt="Screenshot 2026-09-06 at 4 45 54 PM" src="https://github.com/user-attachments/assets/ed31d494-a04a-4571-9e64-56158f110d2d" />
+  
+* 🧠 **Brain Gym** with curated learning links, internal challenges, research prompts, favorites, and personal resources
 
 * 📚 **Study Rooms** with cozy library and café environments, different scenes, focus sessions, fullscreen mode, and personal study notes
 
-## 💾 Saving Progress
-
-Your completed activities, custom activities, and deck edits are saved immediately in your browser's **local storage**.
-
-They remain available the next day and after refreshing the page, provided you use the same browser on the same device. 🌱
-
-To keep a copy outside the browser:
-
-1. 🥤 Open **My Cup**
-2. 💾 Choose **Download a backup**
-
-Browser data can be removed if you clear site data, use private browsing, or change devices, so periodic backups are recommended.
 
 ## 🌿 Typical Flow
 
@@ -66,6 +38,10 @@ Browser data can be removed if you clear site data, use private browsing, or cha
 
 ## 🧠 Brain Gym
 
+
+<img width="1272" height="716" alt="Screenshot 2026-09-05 at 12 27 18 PM" src="https://github.com/user-attachments/assets/d6daa9ef-ce55-4a3d-9f68-998ec90e5209" />
+
+
 A dedicated space for keeping your mind active, curious, and engaged.
 
 Explore:
@@ -76,6 +52,29 @@ Explore:
 * ⭐ Favorite resources
 * 🔗 Personal learning resources
 * 🧠 Activities designed to encourage curiosity, focus, memory, and problem-solving
+
+## 📚 Study Rooms
+
+<img width="1268" height="687" alt="Screenshot 2026-09-06 at 4 46 53 PM" src="https://github.com/user-attachments/assets/882529af-1c41-4edb-9e18-e244f8ba5f53" />
+
+
+
+
+
+## 💾 Saving Progress
+
+<img width="1270" height="719" alt="Screenshot 2026-09-05 at 12 31 43 PM" src="https://github.com/user-attachments/assets/176b680f-0b57-4357-84bb-0039a9b12b45" />
+
+Your completed activities, custom activities, and deck edits are saved immediately in your browser's **local storage**.
+
+They remain available the next day and after refreshing the page, provided you use the same browser on the same device. 🌱
+
+To keep a copy outside the browser:
+
+1. 🥤 Open **My Cup**
+2. 💾 Choose **Download a backup**
+
+Browser data can be removed if you clear site data, use private browsing, or change devices, so periodic backups are recommended.
 
 ## 📝 Notes
 
